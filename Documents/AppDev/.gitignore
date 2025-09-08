@@ -1,0 +1,21 @@
+# Ignore Windows system files
+AppData/
+Thumbs.db
+*.lnk
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore VSCode settings
+.vscode/
+*.code-workspace
+
+# Ignore node/python dependencies (kung meron ka)
+node_modules/
+__pycache__/
+
+# Ignore build/output folders
+dist/
+build/
